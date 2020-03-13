@@ -1,13 +1,13 @@
 # Site
-name: "Damla Yayınevi Blog"
-title: "DY Blog"
-description: "1974'den beri Eğitimin Hizmetinde..."
+name: "Bein Smile"
+title: "Bein Smile"
+description: "Bein Smile"
 logo: 'assets/images/logo.png'
 favicon: 'assets/images/logo.png'
 baseurl: /bein-smile/
-google_analytics: 'UA-53710816-8'
-yandex-metrika: 42816574
-disqus: 'blog-damlayayinevi-com-tr'
+google_analytics: ''
+#yandex-metrika: 42816574
+#disqus: 'blog-damlayayinevi-com-tr'
 #mailchimp-list: 'https://wowthemes.us11.list-manage.com/subscribe/post?u=8aeb20a530e124561927d3bd8&amp;id=8c3d2d214b'
 include: ["_pages"]
 permalink: /:title/
@@ -15,13 +15,13 @@ permalink: /:title/
 # Authors
 authors:
   damla:
-    name: Damla
-    display_name: Damla Yayınevi
+    name: BEINSMILE
+    display_name: Bein Smile
     gravatar: e56154546cf4be74e393c62d1ae9f9d4
-    email: iletisim@damlayayinevi.com.tr
-    web: https://www.damlayayinevi.com.tr
-    twitter: https://twitter.com/damlayayinevi
-    description: "Çocuklara kitapları sevdiren Yayınevi"
+    email: info@beinsmile.com
+    web: https://www.beinsmile.com
+    twitter: https://twitter.com/beinsmile
+    description: "Bein Smile"
   # john:
   #   name: John
   #   display_name: John    
